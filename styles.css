@@ -193,10 +193,16 @@ body {
   z-index: 1;
 }
 
+.icon{
+  text-align: center;
+  line-height: 50px;
+}
+
 .dropdown-content .social-media li a .icon {
   position: relative;
   color: #73648A;
   transition: .5s;
+  
   z-index: 3;
 }
 
